@@ -21,6 +21,4 @@ class Solution {
 
         return maxLen;
     }
-} {
-    
 }
